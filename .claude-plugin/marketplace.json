@@ -19,7 +19,7 @@
       "category": "productivity",
       "keywords": ["google-docs", "review", "comments", "mcp", "writing"],
       "source": "./plugin",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "homepage": "https://strunk.io"
     }
   ]

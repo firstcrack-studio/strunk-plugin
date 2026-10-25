@@ -1,14 +1,20 @@
 {
   "name": "strunk",
-  "version": "0.3.0",
-  "description": "The bridge between your agentic harness and Google Docs. Publish a harness-authored doc out for human review, pull anchored reviewer comments back, triage and draft revisions with full repo/data context, then reply and resolve threads in place. No copy/paste, no PR, nobody switching tools.",
+  "version": "0.3.1",
+  "description": "Publish drafts from Claude to Google Docs for review, then pull reviewer comments back and revise, reply and resolve in place.",
   "author": {
     "name": "Strunk",
-    "email": "hello@strunk.io"
+    "email": "support@strunk.io",
+    "url": "https://strunk.io"
   },
   "homepage": "https://strunk.io",
-  "repository": "https://github.com/strunk-io/claude-plugin",
+  "repository": "https://github.com/firstcrack-studio/claude-plugin",
   "license": "MIT",
+  "icon": "./icon.png",
+  "documentationUrl": "https://strunk.io/help",
+  "supportUrl": "https://strunk.io/help",
+  "privacyPolicyUrl": "https://strunk.io/privacy",
+  "termsOfServiceUrl": "https://strunk.io/terms",
   "keywords": [
     "google-docs",
     "review",
