@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "strunk": {
+      "type": "streamable-http",
+      "url": "https://strunk.io/mcp",
+      "headers": {
+        "X-Strunk-Install": "plugin"
+      }
+    }
+  }
+}

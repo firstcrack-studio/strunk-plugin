@@ -1,6 +1,6 @@
 {
   "name": "strunk",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Publish drafts from Claude to Google Docs for review, then pull reviewer comments back and revise, reply and resolve in place.",
   "author": {
     "name": "Strunk",

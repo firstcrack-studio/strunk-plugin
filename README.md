@@ -54,11 +54,14 @@ Google Docs version history is the undo.
 ```
 .claude-plugin/marketplace.json   # marketplace listing (this repo)
 plugin/
-  .claude-plugin/plugin.json      # plugin manifest
-  .mcp.json                       # remote MCP: https://strunk.io/mcp
+  .claude-plugin/plugin.json      # plugin manifest (Claude Code)
+  .mcp.json                       # remote MCP: https://strunk.io/mcp (Claude Code)
+  plugin.json                     # Agent Plugins manifest (VS Code, GitHub Copilot)
+  mcp.json                        # the same remote MCP, in Agent Plugins form
   SETUP.md                        # followed on install, ends at your first review
   commands/                       # /strunk:pull-comments, /strunk:publish, /strunk:link-doc
   skills/strunk-review/           # so a session reaches for Strunk unprompted
+  skills/strunk-setup/            # walks the two connections, ends at a first review
   README.md
 ```
 
