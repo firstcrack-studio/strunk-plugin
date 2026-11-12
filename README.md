@@ -18,7 +18,7 @@ install or keep in sync, and it works the same on any harness that connects to t
 From an interactive Claude Code session:
 
 ```
-/plugin marketplace add strunk-io/claude-plugin
+/plugin marketplace add firstcrack-studio/strunk-plugin
 ```
 
 ```

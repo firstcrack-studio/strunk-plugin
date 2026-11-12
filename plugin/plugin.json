@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "strunk",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Publish drafts to Google Docs for review, then pull reviewer comments back and revise, reply and resolve them from your AI tool. Bundles the hosted Strunk MCP server (OAuth sign-in) and two skills: one walks setup, one runs the review round trip.",
   "author": {
     "name": "Strunk",
@@ -9,7 +9,7 @@
     "url": "https://strunk.io"
   },
   "homepage": "https://strunk.io",
-  "repository": "https://github.com/firstcrack-studio/claude-plugin",
+  "repository": "https://github.com/firstcrack-studio/strunk-plugin",
   "license": "MIT",
   "keywords": [
     "google-docs",

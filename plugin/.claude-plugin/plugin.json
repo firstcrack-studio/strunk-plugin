@@ -1,6 +1,6 @@
 {
   "name": "strunk",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Publish drafts from Claude to Google Docs for review, then pull reviewer comments back and revise, reply and resolve in place.",
   "author": {
     "name": "Strunk",
@@ -8,7 +8,7 @@
     "url": "https://strunk.io"
   },
   "homepage": "https://strunk.io",
-  "repository": "https://github.com/firstcrack-studio/claude-plugin",
+  "repository": "https://github.com/firstcrack-studio/strunk-plugin",
   "license": "MIT",
   "icon": "./icon.png",
   "documentationUrl": "https://strunk.io/help",
